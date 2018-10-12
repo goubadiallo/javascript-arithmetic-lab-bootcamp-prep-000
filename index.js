@@ -18,7 +18,7 @@ number *= 10 // 50
 number /= 5 // 1
 var number = 10
  
-function add5() {
+function add() {
   number += 5
 }
  

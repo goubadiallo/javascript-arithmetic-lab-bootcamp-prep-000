@@ -3,7 +3,7 @@
 2 * 3.4 // 6.8 (there's that floating-point arithmetic again...)
 5.0 / 2.5 // 2
 
-var number = 5
+var number = 605
  
 number++ // 5... hmmmm
  

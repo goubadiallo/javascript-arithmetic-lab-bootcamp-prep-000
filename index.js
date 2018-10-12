@@ -30,7 +30,7 @@ divideBy3()
  
 console.log(number) // 3.333333333335
  
-add5()
+add()
  
 console.log(number) // 8.333333333335
  

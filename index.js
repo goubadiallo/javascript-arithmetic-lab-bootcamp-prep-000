@@ -37,7 +37,7 @@ console.log(number) // 8.333333333335
 // reset number
 number = 10
  
-add5()
+add()
  
 console.log(number) // 15
  
